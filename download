@@ -1,0 +1,13 @@
+# Derleme çıktıları
+/build/
+*.o
+*.elf
+*.img
+*.map
+*.d
+
+# Editör ve işletim sistemi dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
